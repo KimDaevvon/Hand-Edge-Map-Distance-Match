@@ -3,5 +3,6 @@ After storing template images in each folder, use generate data in the UI. The d
 Do not use neural networks, so performance is poor and constrained
 The image used for the template should be in black background and should not appear below the wrist
 In inference images, the background should be distinguished from the skin color and should not appear below the wrist
+It is difficult to use alone in reality, but there is a possibility that it will be used in fusion
 
 Link to demonstration video: https://www.youtube.com/watch?v=FHAf9EXolhQ
